@@ -1,0 +1,21 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Dev Log"
+pre = "envelope"
+pageRef = "posts"
+identifier = "nMxyPQBFG6"
+weight = 2
+
+[[main]]
+name = "Home Page"
+pre = "sun"
+pageRef = "/"
+identifier = "9cU3ot2oGb"
+weight = 1
+
+[[footer]]
+    name = "Background by Souredapple"
+    url = "https://souredapple.newgrounds.com/art"
+    weight = 1

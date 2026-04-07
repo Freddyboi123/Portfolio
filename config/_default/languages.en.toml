@@ -1,0 +1,22 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Frederiks Portfolie"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+  
+["params.author"]
+name = "Frederik Edvardsen"
+   email = "frededv@outlook.dk"
+   image = "FrederikPagePhoto.jpg"
+   imageQuality = 96
+
+   links = [
+     { email = "mailto:frededv@outlook.dk" },
+     { github = "https://github.com/Freddyboi123" }
+   ]

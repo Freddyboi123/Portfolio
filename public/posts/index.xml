@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Frederiks Portfolie</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Frederiks Portfolie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>frededv@outlook.dk (Frederik Edvardsen)</managingEditor>
+    <webMaster>frededv@outlook.dk (Frederik Edvardsen)</webMaster>
+    <copyright>© 2026 Frederik Edvardsen</copyright>
+    <lastBuildDate>Wed, 01 Apr 2026 13:35:52 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Builder</title>
+      <link>http://localhost:1313/posts/builder/</link>
+      <pubDate>Wed, 01 Apr 2026 13:35:52 +0200</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/posts/builder/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Env and dev security</title>
+      <link>http://localhost:1313/posts/dev_log_26_3_2026/</link>
+      <pubDate>Wed, 01 Apr 2026 11:57:39 +0200</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/posts/dev_log_26_3_2026/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tokens and Hashing</title>
+      <link>http://localhost:1313/posts/devlog_23_3_2026/</link>
+      <pubDate>Mon, 23 Mar 2026 13:03:00 +0100</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/posts/devlog_23_3_2026/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Devlog API and data requests</title>
+      <link>http://localhost:1313/posts/devlog._23_2_2026/</link>
+      <pubDate>Mon, 23 Feb 2026 10:27:41 +0100</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/posts/devlog._23_2_2026/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Devlog 19/2/2026 API integration and Threads</title>
+      <link>http://localhost:1313/posts/devlog_20_2_2026/</link>
+      <pubDate>Thu, 19 Feb 2026 15:56:01 +0100</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/posts/devlog_20_2_2026/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DevLog 18/2/2026</title>
+      <link>http://localhost:1313/posts/devlog_18_2_2026/</link>
+      <pubDate>Wed, 18 Feb 2026 19:06:57 +0100</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/posts/devlog_18_2_2026/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
