@@ -58,7 +58,7 @@ enableEmoji = true
         name = "authors"
         weight = 20
 
-    [[related.indices]]
+    [[related.indices]]   
         name = "date"
         weight = 10
 
