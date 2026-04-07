@@ -2,12 +2,10 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
-theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://freddyboi123.github.io/Portfolio/"
+theme = "blowfish"
 defaultContentLanguage = "en"
 
-relativeURLs = true
-canonifyURLs = true
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
