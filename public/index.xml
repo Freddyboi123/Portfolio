@@ -2,81 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frederiks Portfolie</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/Portfolio/</link>
     <description>Recent content on Frederiks Portfolie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>frededv@outlook.dk (Frederik Edvardsen)</managingEditor>
     <webMaster>frededv@outlook.dk (Frederik Edvardsen)</webMaster>
     <copyright>© 2026 Frederik Edvardsen</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 13:35:52 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Apr 2026 19:03:30 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tokens</title>
+      <link>http://localhost:1313/Portfolio/exampost/tokens/</link>
+      <pubDate>Fri, 10 Apr 2026 19:03:30 +0200</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/Portfolio/exampost/tokens/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JPA_ORM</title>
+      <link>http://localhost:1313/Portfolio/exampost/jpa_orm/</link>
+      <pubDate>Fri, 10 Apr 2026 17:33:26 +0200</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/Portfolio/exampost/jpa_orm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hashing</title>
+      <link>http://localhost:1313/Portfolio/exampost/hashing/</link>
+      <pubDate>Fri, 10 Apr 2026 15:24:04 +0200</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/Portfolio/exampost/hashing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Debugging_tokens</title>
+      <link>http://localhost:1313/Portfolio/posts/debugging/</link>
+      <pubDate>Fri, 10 Apr 2026 11:42:05 +0200</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/Portfolio/posts/debugging/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to debug as a programer</title>
+      <link>http://localhost:1313/Portfolio/exampost/debugging/</link>
+      <pubDate>Fri, 10 Apr 2026 11:42:05 +0200</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/Portfolio/exampost/debugging/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Builder</title>
-      <link>http://localhost:1313/posts/builder/</link>
+      <link>http://localhost:1313/Portfolio/posts/builder/</link>
       <pubDate>Wed, 01 Apr 2026 13:35:52 +0200</pubDate>
       <author>frededv@outlook.dk (Frederik Edvardsen)</author>
-      <guid>http://localhost:1313/posts/builder/</guid>
+      <guid>http://localhost:1313/Portfolio/posts/builder/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lombok Builder</title>
+      <link>http://localhost:1313/Portfolio/exampost/builder/</link>
+      <pubDate>Wed, 01 Apr 2026 13:35:52 +0200</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/Portfolio/exampost/builder/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Env and dev security</title>
-      <link>http://localhost:1313/posts/dev_log_26_3_2026/</link>
+      <link>http://localhost:1313/Portfolio/posts/dev_log_26_3_2026/</link>
       <pubDate>Wed, 01 Apr 2026 11:57:39 +0200</pubDate>
       <author>frededv@outlook.dk (Frederik Edvardsen)</author>
-      <guid>http://localhost:1313/posts/dev_log_26_3_2026/</guid>
+      <guid>http://localhost:1313/Portfolio/posts/dev_log_26_3_2026/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tokens and Hashing</title>
-      <link>http://localhost:1313/posts/devlog_23_3_2026/</link>
+      <link>http://localhost:1313/Portfolio/posts/devlog_23_3_2026/</link>
       <pubDate>Mon, 23 Mar 2026 13:03:00 +0100</pubDate>
       <author>frededv@outlook.dk (Frederik Edvardsen)</author>
-      <guid>http://localhost:1313/posts/devlog_23_3_2026/</guid>
+      <guid>http://localhost:1313/Portfolio/posts/devlog_23_3_2026/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Devlog API and data requests</title>
-      <link>http://localhost:1313/posts/devlog._23_2_2026/</link>
+      <link>http://localhost:1313/Portfolio/posts/devlog._23_2_2026/</link>
       <pubDate>Mon, 23 Feb 2026 10:27:41 +0100</pubDate>
       <author>frededv@outlook.dk (Frederik Edvardsen)</author>
-      <guid>http://localhost:1313/posts/devlog._23_2_2026/</guid>
+      <guid>http://localhost:1313/Portfolio/posts/devlog._23_2_2026/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>External API</title>
+      <link>http://localhost:1313/Portfolio/exampost/externalapi/</link>
+      <pubDate>Mon, 23 Feb 2026 10:27:41 +0100</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/Portfolio/exampost/externalapi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Devlog 19/2/2026 API integration and Threads</title>
-      <link>http://localhost:1313/posts/devlog_20_2_2026/</link>
+      <link>http://localhost:1313/Portfolio/posts/devlog_20_2_2026/</link>
       <pubDate>Thu, 19 Feb 2026 15:56:01 +0100</pubDate>
       <author>frededv@outlook.dk (Frederik Edvardsen)</author>
-      <guid>http://localhost:1313/posts/devlog_20_2_2026/</guid>
+      <guid>http://localhost:1313/Portfolio/posts/devlog_20_2_2026/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DevLog 18/2/2026</title>
-      <link>http://localhost:1313/posts/devlog_18_2_2026/</link>
+      <link>http://localhost:1313/Portfolio/posts/devlog_18_2_2026/</link>
       <pubDate>Wed, 18 Feb 2026 19:06:57 +0100</pubDate>
       <author>frededv@outlook.dk (Frederik Edvardsen)</author>
-      <guid>http://localhost:1313/posts/devlog_18_2_2026/</guid>
+      <guid>http://localhost:1313/Portfolio/posts/devlog_18_2_2026/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hello</title>
-      <link>http://localhost:1313/hello/</link>
+      <link>http://localhost:1313/Portfolio/hello/</link>
       <pubDate>Wed, 18 Feb 2026 19:03:32 +0100</pubDate>
       <author>frededv@outlook.dk (Frederik Edvardsen)</author>
-      <guid>http://localhost:1313/hello/</guid>
+      <guid>http://localhost:1313/Portfolio/hello/</guid>
       <description></description>
       
     </item>

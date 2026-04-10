@@ -3,55 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/builder/</loc>
+    <loc>http://localhost:1313/Portfolio/exampost/</loc>
+    <lastmod>2026-04-10T19:03:30+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/</loc>
+    <lastmod>2026-04-10T19:03:30+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/exampost/tokens/</loc>
+    <lastmod>2026-04-10T19:03:30+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/exampost/jpa_orm/</loc>
+    <lastmod>2026-04-10T17:33:26+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/exampost/hashing/</loc>
+    <lastmod>2026-04-10T15:24:04+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/posts/debugging/</loc>
+    <lastmod>2026-04-10T11:42:05+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/exampost/debugging/</loc>
+    <lastmod>2026-04-10T11:42:05+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/posts/</loc>
+    <lastmod>2026-04-10T11:42:05+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/posts/builder/</loc>
     <lastmod>2026-04-01T13:35:52+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/Portfolio/exampost/builder/</loc>
     <lastmod>2026-04-01T13:35:52+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-04-01T13:35:52+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/dev_log_26_3_2026/</loc>
+    <loc>http://localhost:1313/Portfolio/posts/dev_log_26_3_2026/</loc>
     <lastmod>2026-04-01T11:57:39+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/devlog_23_3_2026/</loc>
+    <loc>http://localhost:1313/Portfolio/posts/devlog_23_3_2026/</loc>
     <lastmod>2026-03-23T13:03:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/devlog._23_2_2026/</loc>
+    <loc>http://localhost:1313/Portfolio/posts/devlog._23_2_2026/</loc>
     <lastmod>2026-02-23T10:27:41+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/devlog_20_2_2026/</loc>
+    <loc>http://localhost:1313/Portfolio/exampost/externalapi/</loc>
+    <lastmod>2026-02-23T10:27:41+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/posts/devlog_20_2_2026/</loc>
     <lastmod>2026-02-19T15:56:01+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/devlog_18_2_2026/</loc>
+    <loc>http://localhost:1313/Portfolio/posts/devlog_18_2_2026/</loc>
     <lastmod>2026-02-18T19:06:57+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/hello/</loc>
+    <loc>http://localhost:1313/Portfolio/hello/</loc>
     <lastmod>2026-02-18T19:03:32+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

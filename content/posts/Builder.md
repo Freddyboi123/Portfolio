@@ -16,7 +16,7 @@ This decision led to an interesting problem.'
 
 After setting up the basic `createUsers` part, I ran a test and immediately noticed something was wrong.
 
-![Builder Error Image](/images/builderErrorFirst.png)
+![Builder Error Image](../builderErrorFirst.png)
 
 As you can see, my passwords are no longer hashed. 
 After my inisial confusion, i desided to look at my lombok setup 
@@ -46,7 +46,7 @@ The fix was simple, don't use the Builder, and rebase the code on a simple const
 
 And as you can see this worked as expected 
 
-![Builder Error Image](/images/errorSolved.png)
+![Builder Error Image](../errorSolved.png)
 
 
 # What i learned
