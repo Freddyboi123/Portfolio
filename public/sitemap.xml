@@ -4,13 +4,37 @@
 
   <url>
     <loc>http://localhost:1313/Portfolio/exampost/</loc>
-    <lastmod>2026-04-10T19:03:30+02:00</lastmod>
+    <lastmod>2026-04-10T21:43:50+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/Portfolio/</loc>
-    <lastmod>2026-04-10T19:03:30+02:00</lastmod>
+    <lastmod>2026-04-10T21:43:50+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/exampost/links/</loc>
+    <lastmod>2026-04-10T21:43:50+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/exampost/logging/</loc>
+    <lastmod>2026-04-10T21:38:18+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/exampost/deployment/</loc>
+    <lastmod>2026-04-10T21:28:42+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Portfolio/exampost/rest/</loc>
+    <lastmod>2026-04-10T21:23:56+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

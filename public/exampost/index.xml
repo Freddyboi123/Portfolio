@@ -9,7 +9,47 @@
     <managingEditor>frededv@outlook.dk (Frederik Edvardsen)</managingEditor>
     <webMaster>frededv@outlook.dk (Frederik Edvardsen)</webMaster>
     <copyright>© 2026 Frederik Edvardsen</copyright>
-    <lastBuildDate>Fri, 10 Apr 2026 19:03:30 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/exampost/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Apr 2026 21:43:50 +0200</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/exampost/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/Portfolio/exampost/links/</link>
+      <pubDate>Fri, 10 Apr 2026 21:43:50 +0200</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/Portfolio/exampost/links/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Logging</title>
+      <link>http://localhost:1313/Portfolio/exampost/logging/</link>
+      <pubDate>Fri, 10 Apr 2026 21:38:18 +0200</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/Portfolio/exampost/logging/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Deployment</title>
+      <link>http://localhost:1313/Portfolio/exampost/deployment/</link>
+      <pubDate>Fri, 10 Apr 2026 21:28:42 +0200</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/Portfolio/exampost/deployment/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>REST</title>
+      <link>http://localhost:1313/Portfolio/exampost/rest/</link>
+      <pubDate>Fri, 10 Apr 2026 21:23:56 +0200</pubDate>
+      <author>frededv@outlook.dk (Frederik Edvardsen)</author>
+      <guid>http://localhost:1313/Portfolio/exampost/rest/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Tokens</title>
